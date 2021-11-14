@@ -1,0 +1,31 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+The purpose of this analysis sheet was to put to practice the skills that were demonstrated throughout Module 1 regarding Excel. In the scenario provided, we are assisting Louise with answering her question as to whether or not there is a noticable relationship between the launch date of the various projects and the funding goal for each project.
+
+## Analysis and Challenges
+Initial analysis wanted to see how different campaigns performed based off their launch dates. Funding goals were observed to make a determination as to when the the best time was to launch the fundraiser. The dataset first had to be assembled in a coherent fashion to easily find the relationship that was being looked for. 
+
+### Analysis of Outcomes Based on Launch Date
+Analysis of the data shows that, over all, events that were launched in the month of July proved to be most successful. Specifically for theatrical events the month of May. The theatrical events that saw least success were the ones that were launched in December. However, there were more failed theatre events in the month of May, but that could be due to the fact that the Month of May saw more theatrical events being launched than any other month.  
+
+### Analysis of Outcomes Based on Goals
+Data shows that, the events with a fundraising goal less than $1,000 was to accomplish their goal. The higher the fundraising goal was, the more plays failed to reach the goal.  None of the projecs were canceled. 
+
+### Challenges and Difficulties Encountered
+It was a challenge to properly apply the COUNTERIFS function. The multiple conditions that had to be met was difficult to translate into the equation. Also, getting the equation for the unix time stamp converter. 
+
+## Results
+
+- Two conclusions that can be made from this Analysis is that, one- projects that were launched during the warmer parts of the year were able to successfully reach their fundraising goal. Two- generally speaking, the population enjoys donating to plays as a whole, since there were more successful outcomes throughout the year, than failed outcomes. 
+
+- What can you conclude about the Outcomes based on Goals?
+Fundraising goals that were lower, generally were able to have successful outcomes. Goals that required heftier donations were not met with success.
+
+- What are some limitations of this dataset?
+This dataset doesn't really provide us with a background of the population from which the data is being collected. It could be possible that there is a relationship between the types of people that attend these events and how much money was raised. Also, alot of the analysis performed required the illustration of the data via a line graph, with all the categories and subcategories, to get a full idea of what the outcomes were for each category would be overwhelming. There just seemed to be a lot of data to work with. 
+
+- What are some other possible tables and/or graphs that we could create?
+A pie chart would have done great to illustrate the percentage of success, versus the percentage of failures, versus the percentage of plays that were canceled. Bar charts would have been a good chart to use as well, since it shows the difference in performance between different categories (like months).
